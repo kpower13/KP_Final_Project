@@ -23,5 +23,5 @@ The bot can handle:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mlb-chatbot-assistant.git
+   git clone https://github.com/kpower13/KP_Final_Project.git
    cd mlb-chatbot-assistant
