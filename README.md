@@ -25,3 +25,7 @@ The bot can handle:
    ```bash
    git clone https://github.com/kpower13/KP_Final_Project.git
    cd KP_Final_Project
+
+2. **Install Dependencies:**
+   ```bash
+   pip install transformers torch Flask pandas pyarrow 
