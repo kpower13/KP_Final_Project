@@ -29,3 +29,27 @@ The bot can handle:
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt 
+
+---
+
+## 🚀 **How to Run the Chatbot**
+
+1. **Start the Flask Server: Run the following command in the project directory:**
+   ```bash
+   python app.py
+
+2. **Go to the Web UI**
+   ```bash
+   * Serving Flask app 'app'
+   * Debug mode: on
+    WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+   * Running on all addresses (0.0.0.0)
+   * Running on http://127.0.0.1:5000
+
+   #this one below that can be found in your terminal
+   * Running on http://192.168.1.181:5000
+   
+    Press CTRL+C to quit
+   * Restarting with watchdog (fsevents)
+   * Debugger is active!
+   * Debugger PIN: 140-281-653
