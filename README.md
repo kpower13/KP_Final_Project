@@ -53,3 +53,23 @@ The bot can handle:
    * Restarting with watchdog (fsevents)
    * Debugger is active!
    * Debugger PIN: 140-281-653
+
+3. **Search for Key Words or Phrases**
+  ```bash
+  #search for single word or simple word queries
+  Bobby Witt Jr
+  Kansas City Royals
+  Most Valuable Player
+
+  #you can also search /help to see all of the built in commands
+  /help
+
+  Available Commands:
+  /help - Show available commands
+  /status - Check if the chatbot is running
+  /info - Learn more about this chatbot
+  /category - List available categories
+  /source - View data sources
+  /clear - Reset the conversation
+  /time - Get the current server time
+  /debug - View debug information
