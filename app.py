@@ -34,14 +34,14 @@ class LLMProvider:
 # Initialize Flask app
 app = Flask(__name__)
 
-# Load your dataset
+# Load dataset
 data = pd.read_parquet("data/Power-midterm.parquet")
 
 # Ensure case-insensitive matching by converting specific columns to lowercase
 columns_to_lowercase = ['category', 'subcategory', 'title']
 data[columns_to_lowercase] = data[columns_to_lowercase].apply(lambda x: x.str.lower().astype(str))
 
-# Initialize instances of your query model and language model
+# Initialize instances of query model and language model
 dqm = DocumentQueryModel(data)
 llm = LLMProvider()
 
