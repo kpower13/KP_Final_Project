@@ -28,4 +28,4 @@ The bot can handle:
 
 2. **Install Dependencies:**
    ```bash
-   pip install transformers torch Flask pandas pyarrow 
+   pip install -r requirements.txt 
