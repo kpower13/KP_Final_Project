@@ -76,4 +76,4 @@ The bot can handle:
 
 ---
 
-##🤟Have Fun and Happy Searching!##
+## 🤟 **Have Fun and Happy Searching!**
