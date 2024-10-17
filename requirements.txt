@@ -1,7 +1,7 @@
 #help from ChatGPT
-Flask==2.3.2
-pandas==2.1.1
-transformers==4.33.2
-torch==2.1.0
-pyarrow==13.0.0
-Jinja2==3.1.2
+Flask
+pandas
+transformers
+torch
+pyarrow
+Jinja2
