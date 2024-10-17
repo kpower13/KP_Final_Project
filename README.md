@@ -1,4 +1,4 @@
-MLB Chatbot Assistant
+##MLB Chatbot Assistant
 📝 Overview
 The MLB Chatbot Assistant is a Retrieval-Augmented Generation (RAG) chatbot designed to answer user inquiries related to Major League Baseball (MLB). The chatbot leverages a custom dataset, searches through documents for relevant information, and generates concise responses using natural language processing (NLP) models.
 
